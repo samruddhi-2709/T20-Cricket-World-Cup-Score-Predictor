@@ -1,4 +1,3 @@
-#T20 Cricket World Cup Score Predictor
 
 This project predicts the final score of a team in a T20 Cricket World Cup match using in-game variables. The model is built using XGBoost, a state-of-the-art gradient boosting algorithm, chosen for its ability to handle complex relationships and deliver strong performance on structured/tabular data.
 
