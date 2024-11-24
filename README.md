@@ -7,8 +7,8 @@ Key Features:
 * Can be extended to predict match outcomes under various scenarios.
 
 Technologies Used:
-Python
-XGBoost
-Pandas and NumPy for data manipulation and analysis.
-Scikit-learn for preprocessing and model evaluation.
-Matplotlib for data visualization.
+* Python
+* XGBoost
+* Pandas and NumPy for data manipulation and analysis.
+* Scikit-learn for preprocessing and model evaluation.
+* Matplotlib for data visualization.
